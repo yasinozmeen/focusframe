@@ -1,0 +1,14 @@
+<svg aria-hidden="true" style="position:absolute;width:0;height:0;overflow:hidden" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <symbol id="camera" viewBox="0 0 43 32">
+            <path fill="currentColor"  d="M28 17.333a6.67 6.67 0 0 1-11.381 4.714 6.67 6.67 0 0 1 0-9.428 6.67 6.67 0 0 1 9.428 0A6.67 6.67 0 0 1 28 17.333z"/>
+            <path fill="currentColor"  d="M5.333 5.333A5.334 5.334 0 0 0 0 10.666v16a5.334 5.334 0 0 0 5.333 5.333h32a5.334 5.334 0 0 0 5.333-5.333v-16a5.334 5.334 0 0 0-5.333-5.333h-3.125a5.33 5.33 0 0 1-3.771-1.563l-2.208-2.208c-1-1-2.356-1.562-3.771-1.563h-6.251a5.33 5.33 0 0 0-3.771 1.563L12.228 3.77c-1 1-2.356 1.562-3.771 1.563H5.332zm1.334 5.334a1.335 1.335 0 0 1-.943-2.277 1.335 1.335 0 0 1 1.886 0 1.335 1.335 0 0 1 0 1.886c-.251.25-.589.391-.943.391zm24 6.666a9.333 9.333 0 1 1-18.667 0 9.333 9.333 0 0 1 18.667 0z"/>
+        </symbol>
+        <symbol id="hamburger" viewBox="0 0 47 32">
+            <path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-width="2.909" d="M8.538 5.333h36.553M8.538 24.727h36.553M19.668 15.03h25.423"/>
+        </symbol>
+        <symbol id="x" viewBox="0 0 32 32">
+            <path stroke-linejoin="round" stroke-linecap="round" stroke-width="2.4" d="M24 8 8 24M8 8l16 16"/>
+        </symbol>
+    </defs>
+</svg>

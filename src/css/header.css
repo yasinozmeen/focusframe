@@ -1,0 +1,44 @@
+header {
+  margin: 20px;
+  border-radius: 12px;
+  background-color: rgba(18, 18, 18, 1);
+  height: 50px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+header h2 {
+  margin: auto 0;
+}
+.container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.header-components {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  gap: 14px;
+  color: #fff;
+}
+.header-camera-bg {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background-color: rgba(29, 29, 29, 1);
+}
+.camera {
+  width: 16px;
+  height: 12px;
+  color: rgba(190, 166, 158, 0.4);
+}
+.hamburger {
+  width: 32px;
+  height: 32px;
+  color: white;
+}
